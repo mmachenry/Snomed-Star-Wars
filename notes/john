@@ -1,0 +1,57 @@
+X:XX:XX, 5987007, Recognition odor, during the scene when Alderran blows up
+
+0:02:25, 304607008, atmosphere, camera picks up atmoshpere flair
+0:03:35, 242240005, Explosion on board spacecraft in flight
+0:04:42, 370221004, Severe asthma
+0:04:55, 225211008, Search procedure
+0:05:20, 225624000, Panic attack
+0:05:27, 371154000, Dependent
+0:05:45, 410552003, Guardian interview
+0:07:00, 261337002, Ship's lifeboat
+0:20:20, 258142008, Own name spoken
+0:26:20, 160815007, Pleads not guilty
+0:27:56, 112518006, Snipe
+0:28:20, 91646005, Gibberish aphasia
+0:29:02, 284594001, Shouting, Tuskan Raider squealing
+0:29:38, 51406002, High pitched voice
+0:30:08, 288808009, Does greet
+0:30:35, 385773006, Encouragement of compliance with safety precautions
+0:31:40, 258142008, Own name spoken
+0:32:14, 286933003, Confusional state
+0:32:42, 225798004, Uninformed
+0:33:00, 221668007, Gifted
+0:36:30, 249938007, Weakness of back, Luke is spineless
+0:44:14, 6811007, Prejudice
+0:45:26, 13284009, Yorkshire terrier, Chewie!
+0:46:30, 61372001, Aggressive behavior
+0:47:35, 286712000, Fearful character
+0:50:50, 288676007, Ability to terminate conversation
+0:54:30, 81716003, Elephant, this character appears in an earlier scene and I didn't not the SNOMED code there. consider adding with 367409002 Followed by)
+1:08:20, 2667000, Absent
+1:08:40, 422768004, Unresponsive
+1:08:45, 13284009, Yorkshire terrier
+1:13:26, 30012001, Elevator
+1:14:20, 225798004, Uninformed
+1:15:20, 288676007, Ability to terminate conversation, this should be when Han blows up the console
+1:19:07, 58377000, Trash
+1:19:26, 286842006, Reckless character
+1:20:24, , 53756004, Tentacled snake
+1:21:36, 285722004, Mechanical crushing
+1:22:25, 2667000, Absent, this should be when Luke calls for 3P0 and he's not there
+1:23:15, 2667000, Absent, this should be when Luke calls for 3P0 and he's not there
+1:29:05, 260883005, Hook
+1:30:00, 247010007, Pupil finding
+1:30:15, 413853001, Circle system
+1:30:50, 247659005, Use of imagination
+1:32:40, 2667000, Absent, When Vader steps on Obi-Wan's robes
+1:33:25, 284531007 Finding relating to grieving and mourning
+1:33:57, 133918004, Comfort measures
+1:36:02, 242240005, Explosion on board spacecraft in flight1:48:30
+1:45:50, 80849007, Gigantism
+~1:46:10, 260359005, Very heavy, this should be when someone says 'Heavy Fire'
+1:47:30, 103327009, Patient waiting for
+1:48:30, 228354000, Drunk driving, I always thought this looked like Darth was opening a bottle...
+1:51:20, 103327009, Patient waiting for
+1:52:45, 236821005, Failure of penetration
+1:57:02, 279056004, Pain on penetration
+1:59:15, 312020002, Recognition

@@ -1,0 +1,280 @@
+athena1959@ptest16 > select code, description, category from snomed where lower(description) like '%robot%' and rownum < 16;
++---------+-------------------------------------+---------------+
+|CODE     |DESCRIPTION                          |CATEGORY       |
++---------+-------------------------------------+---------------+
+| 83517001|Robot                                |physical object|
+| 66222000|Hospital robot                       |physical object|
+| 68685003|Household robot                      |physical object|
+| 44492001|Industrial robot                     |physical object|
+| 82830000|Robotic arm                          |physical object|
++---------+-------------------------------------+---------------+
+
+
+
+|       242246004|Collision of spacecraft with debris                          |event          |
+
+
+
+      215032006 Nontraffic accident involving fire starting in motor vehicle, except off-road motor vehicle, while in motion, not on public highway, rider of animal or occupant of animal-drawn vehicle injured
+
+
+              1892002 Star figure at the macula
+              death star reflected in eye?
+
+                     52909001 Mustard gas poisoning
+                            76533004 Mustard gas
+                            smoke?
+
+                                   64548006 Lone Star virus
+
+                                          90478004 Venous star
+
+                                                162440001 Symptom started years ago
+
+                                                219427009 War injury due to lasers                                             |disorder|
+                                                219435007|War injury due to unconventional forms of warfare NOS                |disorder|
+
+                                                |        25318002|Death by strangulation                                                                                                                        |event            |
+
+
+                                                |         5062002|Death by immolation                                                                                                                                                 |
+
+                                                |364020003|Ability to hear voice           |observable entity|
+                                                |413385009|Abnormal ability to hear voice  |finding          |
+
+                                                -------
+
+                                                time, snomed #, description
+
+
+                                                0:00:45, 5098008, Flow history
+                                                0:00:45, 257874000, Civil war
+                                                0:01:23, 309027006, Intelligence officer
+                                                0:01:23, 309027006, Intelligence officer
+
+
+                                                0:01:45, 58222006, Interplanetary craft
+
+                                                0:02:40, robots (industrial, domestic, robot)
+                                                0:02:45, soldiers, forces?
+                                                02:45, 
+                                                3:12, no escape?
+                                                ,,british has "assault by smoke"
+                                                3:50, lasers
+                                                3:55, 
+                                                4:00, contained causutly setting
+                                                , 446172000, Failed attempt to stop smoking, storm trooper picked up other storm trooper and dropped him
+                                                00:04:39, 257384008, Full face helmet
+                                                00:06:06, death by strangulation 
+
+                                                <>
+                                                6:31:00, stunned
+
+                                                00:07:14, delusion of special mission
+
+                                                <scene with vader and princess>
+                                                <crash>
+                                                0:09:01, 285160001, Sand dunes
+                                                09:14, depression 
+                                                ,225009008,Feeling lost
+                                                10:10, trial separation
+                                                0:11:05, 286834005, Tends to blame others
+                                                0:11:15, 83887000, Rescue vehicle 
+
+                                                <r2d2 attack scene>
+                                                4851000124106, Sand specimen   
+                                                0:11:48, falling rock
+                                                , 246923005, Sunken eyes
+                                                111944002 Victim of ambush
+                                                0:12:26, , taser
+                                                0:12:27, , injury to due taser
+                                                0:12:18, 424582000, Stress overload
+                                                12:40
+                                                , , ability to carry
+                                                , , difficulty carrying
+                                                12:53, , kidnapping, r2d2 kidnapped
+                                                13;40, , welder unskilled
+
+
+                                                15:10
+                                                <troopers looking for droids scene>
+                                                15:10
+
+                                                15:38, identification of animal parts?
+
+
+                                                15:40
+                                                <back to droids, being sold>
+                                                15:58, wake up
+                                                16:05, feeling of doom
+                                                16:14, melt us down
+                                                17:07, 284440009, Market
+
+                                                17:28, , lack of choice
+
+                                                17:50, 7267002, Narcissistic character
+                                                18:00, , 258049002 Protocols
+
+                                                18:14, , multilingual
+                                                18:19, 22570009, whining
+                                                18:55, , robot dies?
+                                                19:00, , abnormal motivation
+                                                ,, 
+
+
+                                                <19:42 scene: house>
+
+                                                20:00, 22570009, Whining, (luke)
+
+                                                20:18, 22570009, Whining, (luke)
+                                                20:30, industrial robot
+                                                ..
+                                                0:21:08, , failed encounter message led ton answering machine
+                                                0:21:32, , 
+                                                0:21:38, 18318000, Infatuation 
+                                                ,, inappropriate hormone secretion
+                                                , 261666007, Master
+
+                                                0:22:27, , hermit
+                                                0:23:00, , insult
+                                                , , bullyinh
+
+
+                                                <dinner>
+                                                23:10, , stolen
+                                                24: , , dead father
+                                                25:05, , whining
+                                                25:15, , whining
+
+
+                                                <sunset>
+                                                0:25:52, 315227004, Excessive sun exposure
+                                                0:25:58, , downward gaze
+                                                0:26:01, , self dramatization
+                                                0:26:05, 90569008, Wind
+                                                0:26:06, , downward gaze
+
+                                                <r2 escape>
+                                                26:38, , binocular vision
+
+
+                                                <sand people and meeting obi>
+                                                27:46, , hovercraft
+                                                27:46, 
+                                                27:56, 
+                                                27:56, 239043004, Sandman-Andra syndrome
+                                                28:07, , riding horned thing?
+                                                28:58, , assault by striking with bout object
+                                                29:20, , unconcious luke
+                                                29:30, , looting
+                                                mysterious person
+                                                30:00, , checking vitals
+                                                30:10, , very old person
+
+                                                <talking to ben>
+                                                31:10, , own name spoken
+                                                31:51, , inability to remember name of droid
+                                                , , predisposed to startle
+                                                32:08, , robotic arm
+
+                                                <ben's house>
+                                                32:42, , uninformed
+                                                truth telling
+                                                33:47, , lazer light blue
+                                                34:20, , abnormal pupil, right when he says "he was a student of mine"
+                                                34:36, , finding pupil related to light 
+                                                34:36, , reaction to dark
+                                                34:38, 282275006, Non-SI unit of force
+                                                34:45, , something something penetration
+                                                36:10, , very old people
+                                                36:16, , whining
+                                                , , guilting
+
+                                                <scene: spaceship>
+                                                36:53, , 
+                                                37:11, , guy?
+                                                38:10, , delusion of grander 
+                                                38:, , doubt?
+                                                38:34, , injured by force
+                                                38, , lack of force
+
+                                                <39:06, scene: ship down, jawas>
+                                                40:32, , smoking in the family?
+                                                , , skeletonized body
+                                                40:46, , downward gaze
+
+
+                                                <40:55 scene>
+                                                41:30, , needle
+
+                                                <41:41, scene>
+                                                42:08, , you would have been killed, too
+                                                42:35, , misc. cliff 
+                                                42:45, , hive of scum and villainy 
+                                                43:10, , fall from animal/ riding/ horse
+                                                43:44, , these aren't the droids we're looking for -- persuasion
+                                                , , brain manipulation
+
+                                                44:38, , pilots
+
+                                                <scene in bar>
+                                                alien environment
+                                                44:50, , something about music, hall, bar, drinking?
+                                                , 22829200, Drinks in public houses 
+                                                45:56, 228297007, Drinks alone
+                                                47:05, , traumatic amputation of arm
+                                                47:08, , laser light blue
+                                                48:??, , confuses units of measurement?
+                                                48:40, , "avoid any imperial entanglements"
+
+                                                49:55, , whining
+                                                50:15, , huge eyes
+
+                                                smugglers
+                                                over my dead body
+
+                                                <scene>
+                                                51:??, 31438003, Drug resistance, "her resistance to the mind probe"
+                                                alternative persuasion 
+
+                                                <>
+                                                301723001|Difficulty undertaking job application activities , when the troopers go 'door's locked go to the next one'
+                                                51:20, , whining
+                                                , 91444001, Smooth pursuit movement
+
+
+
+                                                <>
+                                                54:50, , whining
+                                                59:23, , great disturbance in the force
+
+                                                , 420443006, Jerky pursuit movement
+                                                , 91444001, Smooth pursuit movement
+
+
+                                                ----------
+                                                1:00:30 halfwya
+
+
+
+
+
+
+
+
+                                                371781007 Animal body parts for identification
+
+                                                274225004|Accident - crushed by object 
+
+                                                58377000, Trash 
+                                                5541000124106, Carpet 
+
+
+                                                      300204001 Eyes widen in response to sound
+                                                            300205000 Eyes turn in response to sound
+
+                                                                   247669004 Delusion of grandiose identity
+
+
+
+                                                                   248099006 Inappropriate sexual behavior

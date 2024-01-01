@@ -1,0 +1,303 @@
+TIME,SNOMEDCODE,SNOMEDNAME,NOTES
+0:1:31,285151009,Stealing from fellow residents
+0:2:09,223496003,Geographical and/or political region of the world,planet
+0:2:15,58222006,Interplanetary craft
+0:2:20,284645008,Shooting other person,shooting
+0:2:20,219210003,Deliberate shooting NOS,shooting
+0:2:29,216043009,"Explosion on aircraft while in transit, occupant of spacecraft injured"
+0:2:40,68685003,Household robot
+0:2:40,44492001,Industrial robot
+0:2:49,310916008,Soldier - home service force,soldiers/troops/rebels
+0:2:55,191579000,Schizophrenia NOS,'this is madnes'
+0:3:07,307077003,Feeling hopeless,"'we're doomed'"
+0:3:56,371711002,Injury due to laser
+0:4:03,20936008,Fire storm
+0:4:39,257384008,Full face helmet
+0:5:02,225009008,Feeling lost,R2 where are you?
+0:5:33,80296007,Bundleia
+0:5:50,269734009,Assault by manual strangulation
+0:5:52,263884003,Strangulation
+0:6:05,25318002,Death by strangulation
+0:6:20,122458006,Exploration procedure, search
+0:6:49,9182005,Argumentative behavior,insult
+0:7:00,47670003,Delusion of special mission,convo with R2 and C3
+0:7:09,261331001,Lifeboat,escape pod
+0:7:40,16849006,Government executive official,"emperor, lots of govt ones--use for Empire people"
+0:7:43,106332004,Legislative official AND/OR government administrator,senate
+0:7:50,257875004,Rebellion, rebel spies--all other rebels can be used for this
+0:7:59,158863008,Government intelligence officer,diplomatic
+0:8:16,361060001,Sympathetic fiber,sympathy
+0:8:30,158882004,National government officer NOS, lord vader
+0:8:35,285265004,Dangerous plans,battle station plans
+0:8:44,408458006,Specialist multidisciplinary team,'send an attachment'
+0:8:55,242250006,Crash landing of spacecraft
+0:9:00,284565008,Desert environment
+0:9:05,405154001,Level of suffering,'made to suffer'
+0:9:10,247689003,Depressive hypochondriacal delusion,hypochondria
+0:9:37,9182005,Argumentative behavior,argument
+0:9:44,161149005,Language NOS,incomprehensible language
+0:9:55,284170009,Does kick
+0:10:11,60788005,Separation
+0:10:18,217018005,"Misadventure during medical care, NOS",adventures
+0:10:43,129006008,Walking, walking through desert
+0:11:05,86834005,Tends to blame others
+0:11:14,83887000,Rescue vehicle
+0:11:20,253934006,Hitch-hiker thumb, hitchhiking
+0:11:43,285444008,Does move jaw
+0:12;05,249936006,Unable to close eyes
+0:12:14,,,stalker
+0:12:27,,,injury due to tazer
+0:12:27,,,fall
+0:12:29,111944002,Victim of ambush
+0:12:55,,,weird language
+0:13:01,,,kidnapping
+0:13:11,,,transport
+0:13:23,,,difficulty carrying
+0:13:28,,,hoods
+0:13:47,,,weld
+0:14:06,,,houeshold robots
+0:15:09,264365001,Industrial storage tank
+0:15:10,366064009,Binocular vision - finding
+0:15:38,311093008,Radio telecommunications operator - Royal Signals
+0:18:16,7267002,Narcissistic character
+0:18:22,22570009,Whining
+0:18:23,abnormal motivation
+0:18:51,102491009,Immobile
+0:19:43,408894003,Religiosity,'thank the maker'
+0:23:35,,,bullying
+0:23:43,,,dinner
+0:23:50,,,suspiciious looks
+0:24:57,,,harvest
+0:25:03,,,delay
+0:25:09,,,whining
+0:25:10,,,educated to senior high school level
+0:25:24,,,promise
+0:25:52,,,excessive sun exposure
+0:25:57,,,downward gaze
+0:26:01,,,self-dramatization
+0:26:10,90569008,Wind
+0:26:11,,,downward gaze
+0:26:30,,,Delusion of special mission
+0:27:23,73775008,Morning
+0:27:29,,,very old people
+0:27:36,,,lost child
+0:27:47,,,hovercraft
+0:27:56,111944002,Victim of ambush
+0:28:10,,,riding horned bantu
+0:28:19,,,racism
+0:28:58,,,struck by object
+0:28:58,,,assault by striking with blunt object
+0:29:25,,,hiding
+0:29:31,,,looting
+0:29:30,,,scared
+0:25:53,,,mysterious person
+0:29:59,61746007,Taking patient vital signs
+0:30:13,,,very old person (obi wan)
+0:31:16,,,own name spoken
+0:32:08,,,robotic arm
+0:32:16,,,amnesia
+0:32:42,,,ignorant of father's past
+0:32:42,,,truth-teling
+0:32:42,,,history related to military service
+0:33:00,,,best star piot
+0:33:11,,,good friend
+0:33:17,,,i have something for you
+0:33:24,,,shut down for a while
+0:33:45,,,deserted by father
+0:33:47,,,laser light blue
+0:33:10,,,nostalgia
+0:34:25,,,abnormal pupil
+0:34:36,,,pupil reaction to dark
+0:34:36,,,seduction of male
+0:34:41,,,non-si unit of force
+0:34:49,,,penetration without ejaculation
+0:35:57,,,'you must learn the ways of the force'
+0:36:10,,,very old people
+0:36:30,,,"weak back, spineless"
+0:36:52,,,guilt trip
+0:36:53,27243007,Ready for enhanced religiosity,learn about the force
+0:36:55,,,death star appears
+0:38:02,,,ultimate power
+0:38:34,,,injured by force
+0:40:15,,,jumps off of spacecraft
+0:40:28,,,calls names
+0:40:32,,,smoker in family
+0:40:47,,,downward gaze
+0:41:05,,,bundilea
+0:41:31,,,needle
+0:41:38,,,torture
+0:42:00,,,joining religion
+0:42:29,,,cliffs
+0:43:10,,,thrown from animal
+0:43:55,,,brain manipulation
+0:44:47,,,aliens
+0:44:58,,,bars
+0:45:05,,,drinking
+0:45:18,,,ordering a drink
+0:45:25,,,saxophone player
+0:46:10,,,tells joke
+0:45:26,,,alien environment
+0:47:05,,,traumatic amputation of arm
+0:47:08,,,laser light blue
+0:47:57,,,music hall
+0:48:03,,,negotiation
+0:48:12,,,bragging
+0:48:50,,,bribe
+0:50:15,,,eyes on his head
+0:50:33,,,gun
+0:51:15,,,meeting/conversation
+0:51:20,,,drug resistence
+0:51:29,,,navigation
+0:54:37,13872004,Mycoplasma falconis,millenium falcon
+0:57:20,,,'foul stench'
+0:58:50,,,ignition
+0:59:00,,,laser light green
+0:59:20,,,explosion
+0:59:22,,,homeless (planet blew up)
+0:59:25,7453008,Disturbance of perception,millions of voices
+1:00:22,,,"history of violence, sore loser, pulls arms out of sockets"
+1:02:10,421369008,Emotional hypersensitivity,"stretch out with your feelings, therapy"
+1:02:32,,,first step into a larger world
+1:02:50,,,legal execution
+1:03:10,,,arrival
+1:04:29,,,"moon training - that's no moon, that's a spaceship"
+1:04:37,,,bad feeling about this
+1:04:55,,,tractor beam
+1:08:20,,,firefight
+1:08:50,,,disguise
+1:09:15,,,"computer interaction, hacking, etc"
+1:10:03,,,"religious instruction,'the force will be with you always'"
+1:10:17,,,insult
+1:10:35,9182005,Argumentative behavior
+1:10:44,,,found the princess
+1:11:19,9182005,Argumentative behavior
+1:11:30,,,dissatisfied with job
+1:11:51,365452001,Sense of purpose - finding,"convincing with reward, bribe, persuasion"
+1:12:11,,,"anger, binding"
+1:12:31,,,abndoned
+1:13:01,,,disguised
+1:13:06,,,infiltration
+1:13:22,,,whining
+1:13:45,,,difficulty breathing
+1:13:47,,,arguing
+1:14:25,,,confusion
+1:14:34,,,ambush
+1:14:39,,,firefight
+1:14:55,,,fall down stairs
+1:15:33,,,nervious
+1:15:59,,,"sleeping, awaken"
+1:16:08,,,reunion with sister
+1:17:08,,,assuming responsibility i must face him alone 
+1:17:21,,,"firefight, shots"
+1:17:33,,,running
+1:18:02,,,door knocking
+1:18:19,,,arguing
+1:18:27,,,courage
+1:18:34,,,ito garbage disposal
+1:19:05,,,"garbage, waste"
+1:20:06,,,something in the water
+1:20:13,,,in the water
+1:20:17,,,detached eyeball
+1:20:29,,,drowning
+1:20:47,,,choking
+1:21:09,,,wastewater
+1:21:25,,,"coughing, water in lungs"
+1:21:34,,,bad feeling about this
+1:21:39,,,"walls coming in, mechanical compression"
+1:22:50,,,guard
+1:22:55,,,escape
+1:23:20,,,desperation
+1:23:38,,,losing weight
+1:23:39,,,morbid humor/gallows humor
+1:24:15,,,shouting
+1:24:33,,,euphoria
+1:24:48,,,misunderstanding
+1:25:27,,,hiding
+1:25:31,,,turning off reactor power
+1:25:44,,,sexism
+1:25:45,,,cleanup
+1:26:10,,,royal
+1:26:12,,,walking carpet out of my way
+1:27:21,,,firefgith
+1:27:35,,,suicidal
+1:27:49,,,"running, chasing"
+1:27:55,,,lost
+1:28:05,,,broken bridge
+1:28:30,,,falls off ledge
+1:29:12,,,swinging on rope
+1:29:43,,,"runing, shooting"
+1:29:49,,,door losing
+1:30:00,,,pupil finding
+1:30:00,,,"laser light red, laser light blue"
+1:30:15,,,meet again at last
+1:30:36,,,sword fight
+1:30:45,,,reunion
+1:30:44,62236007,Weakness present,"weak, old, powers"
+1:31:03,,,advice about not coming back
+1:32:26,,,obi wan dispapears
+1:32:45,,,obi wan's voice in luke's head
+1:33:07,,,"escape, flight, fleeing"
+1:33:10,106280003,Aircraft pilot,"navigator AND/OR flight engineer: chewbaca in the cockpit"
+1:33:45,,,grieving
+1:33:55,,,denial stage of greif
+1:34:05,,,climbing stairs
+1:34:17,246325009,Target vessel,targeting
+1:34:37,,,impact of energy
+1:34:34,,,chasec
+1:34:47,,,explosion
+1:35:07,,,"fire, burning"
+1:35:17,,,"manoevring,evasion"
+1:35:25,,,'don't get cocky'
+1:36:11,,,"hug, embrace, celebration"
+1:37:23,,,mercenary
+1:37:53,,,jealousy
+1:38:42,,,ground transport
+1:39:00,,,data transfer
+1:39:25,,,preparing to orbit the planet yatta
+1:39:45,11459003,Team meeting,"meeting, puglic speech, planning"
+1:40:20,900000000000505001,Map target,"shaft, 2m wide"
+1:40:35,225289001,Planning structured activities
+1:40:37,247785002,Unrealistic planning
+1:40:37,160629005,Exercise physically impossible
+1:40:37,160629005,Penetration impossible
+1:41:17,,,end of rebellion
+1:42:15,,,emergence of religiosity
+1:43:00,,,lea kisses luke
+1:44:45,,,takeoff
+1:44:49,,,levitation
+1:44:54,,,hears voices in head
+1:45:03,,,forest enifornemnt
+1:45:24,,,fleet of A-wings
+1:45:33,,,communciation
+1:45:55,,,'red 5 standing by'
+1:46:01,,,oversize something
+1:46:28,,,"cannons, fire, manoevering, flight"
+1:46:35,,,'red 5 going in'
+1:46:45,,,clipped
+1:47:08,,,fighters
+1:46:29,,,plae crash
+1:46:55,,,visual scanning
+1:48:30,,,roken off from the main group
+1:49:30,,,narrow cavern
+1:50:11,,,"lock sign,al, target"
+1:50:25,,,atttack of rebel
+1:50:30,,,lost gold
+1:51:05,,,rejected evacuation
+1:51:45,,,this is it
+1:51:55,,,eyes open
+1:52:13,,,hold them off
+1:51:20,,,close off formation
+1:51:25,,,can't hold them
+1:52:30,,,failure of penetration
+1:53:55,,,watch yourself
+1:54:20,,,lock it down
+1:54:23,,,fighters coming in
+1:55:17,,,i'm on the leader
+1:54:30,,,target approach
+1:54:39,,,"command hallucionation, use the force luke"
+1:58:08,,,"say something, damaged robot"
+1:58:18,,,organ donor
+1:58:26,,,wooded area
+1:58:45,,,chewbaca roar
+1:59:08,,,"ceremony, award, medal"
+1:59:23,,,wink
